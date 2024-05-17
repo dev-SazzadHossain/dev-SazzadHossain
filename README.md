@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sazzad
-#### React Developer 
+#### Frontend Developer (React js)
 ![React Developer ](https://lh3.googleusercontent.com/a/ACg8ocKEqJf0AH-nJ7rGsT5nwSWER45ZRDAyft1MEXZQOeHf4GQ=s260-c-no)
 
 A curious learner and an analytical minded with deep knowledge
