@@ -1,4 +1,4 @@
-![logo](https://github.com/dev-SazzadHossain/dev-SazzadHossain/blob/main/Mern%20Stack.jpeg)
+
 <h1 align="center">Hi 👋, I'm Sazzad</h1>
 <h3 align="center">Mern Stack Developer</h3>
 
